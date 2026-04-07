@@ -10,8 +10,10 @@
 
 </div>
 
+
 <div align="center">
 
+  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -21,18 +23,25 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat ) 
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat ) 
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat ) 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat ) 
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat ) 
+
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat ) 
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat )
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat ) 
+![Pinia Badge](https://img.shields.io/badge/Pinia-FFE066?logo=pinia&logoColor=000&style=flat ) 
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat ) 
+![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=flat ) 
+
+
 </div>
